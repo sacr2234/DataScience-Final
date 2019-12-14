@@ -1,6 +1,6 @@
 # DataScience-Final
 Final Project for CSPB3022
 
-Presentation link here: https://youtu.be/3trXXlSchcc
+Presentation link here: https://youtu.be/GOx4oL7eORg
 
-CSV files included as well in case user wants to download and manipulate data themselves. 
+CSV files were too big to upload to github, but if you email be at sambcramer@gmail.com, I can send them to you.
